@@ -6,9 +6,9 @@
  * Author URI: https://enradia.com/
  * Version: 1.2.2
  * Requires at least: 4.4
- * Tested up to: 4.9.6
+ * Tested up to: 5.0.3
  * WC requires at least: 3.0
- * WC tested up to: 3.4
+ * WC tested up to: 3.5.4
  * Text Domain: woocommerce-gateway-fastspring
  *
  */
@@ -22,7 +22,7 @@ if (!defined('ABSPATH')) {
  * Required minimums and constants
  */
 define('WC_FASTSPRING_VERSION', '1.2.2');
-define('WC_FASTSPRING_SCRIPT', 'https://d1f8f9xcsvx3ha.cloudfront.net/sbl/0.7.6/fastspring-builder.min.js');
+define('WC_FASTSPRING_SCRIPT', 'https://d1f8f9xcsvx3ha.cloudfront.net/sbl/0.7.9/fastspring-builder.min.js');
 define('WC_FASTSPRING_MIN_PHP_VER', '5.6.0');
 define('WC_FASTSPRING_MIN_WC_VER', '3.0.0');
 define('WC_FASTSPRING_MAIN_FILE', __FILE__);
